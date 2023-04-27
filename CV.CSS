@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:pink;
+    text-shadow: 8px 8px 8px rgba(250, 242, 248, 0.911)
+}
+body{
+    background-color: black;
+}
+h2{
+    font-weight: 200;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    Color:white;
+    
+}
+
+h3{
+    color: white;
+
+}
+h4{
+    color: white;
+    font-weight: 400;
+}
+p{
+    font-style: italic;
+color: white;
+filter: drop-shadow(8px 8px 4px #faea);
+}
+ul{
+    color: white;
+
+}
+li{
+    color:white;
+}
+img{
+    box-shadow: 5px 5px 5px #e9e9e5
+    }
+    form{
+        text-shadow: 8px 8px 8px #faea;
+        color: white;
+    }
